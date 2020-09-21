@@ -1,1 +1,1 @@
-# sampletindog
+TinDog Starting Files
